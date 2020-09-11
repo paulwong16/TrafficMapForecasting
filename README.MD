@@ -4,6 +4,8 @@ This repository contains the source code for CS680 Project
 
 Build based on MIE lab's work (https://github.com/mie-lab/traffic4cast)
 
+Refer to [project report](https://github.com/paulwong16/TrafficMapForecasting/blob/master/cs680_project.pdf) for details.
+
 ## What's new
 
 - Modify data loader for traffic4cast 2020 challenge
