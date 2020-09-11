@@ -8,8 +8,6 @@ Build based on MIE lab's work (https://github.com/mie-lab/traffic4cast)
 
 - Modify data loader for traffic4cast 2020 challenge
 
-- Loss curve
-
 <img src="https://github.com/paulwong16/TrafficMapForecasting/blob/master/datasets.png" alt="data" width="800"/>
 
 - Add new models including Res UNet
