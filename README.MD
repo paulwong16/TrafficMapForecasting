@@ -38,6 +38,4 @@ Build based on MIE lab's work (https://github.com/mie-lab/traffic4cast)
 
 - Error plot
 
-- Loss curve
-
 <img src="https://github.com/paulwong16/TrafficMapForecasting/blob/master/bar_plot_with_error_bars.png" alt="error" width="800"/>
