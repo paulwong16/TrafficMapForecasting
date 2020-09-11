@@ -1,6 +1,6 @@
 # Traffic Map Forecasting
 
-This repository contains the source code for CS680 Project
+This repository contains the source code for CS680 S20 Project.
 
 Build based on MIE lab's work (https://github.com/mie-lab/traffic4cast)
 
